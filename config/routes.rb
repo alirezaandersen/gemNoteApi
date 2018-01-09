@@ -18,14 +18,14 @@ Rails.application.routes.draw do
 
       end
 
-      resources :categories, only[:index, :show], module: 'categories' do
+      resources :categories, only: [:index, :show], module: 'categories' do
 
         collection do
-          get 'random',          to: 'categories#random'
+          get '/random',          to: 'categories#random'
         end
       end
 
-      
+
     end
   end
 end
