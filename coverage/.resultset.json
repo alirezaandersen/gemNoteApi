@@ -5,7 +5,7 @@
         1,
         null
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/apparels/apparels_controller.rb": [
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/images/images_controller.rb": [
         1,
         1,
         1,
@@ -19,23 +19,6 @@
         1,
         null,
         1,
-        null,
-        null,
-        1,
-        null,
-        0,
-        null,
-        null,
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        null,
         null,
         null,
         null,
@@ -66,23 +49,59 @@
         1,
         null
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/apparel.rb": [
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/image.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/item_image.rb": [
         1,
         1,
         1,
         null,
         null,
         1,
-        2,
         1,
-        null,
-        null,
         1,
-        2,
-        1,
-        null,
         null,
         null
+      ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/apparels/apparels_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0
       ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/categories/categories_controller.rb": [
         0,
@@ -173,26 +192,6 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/images/images_controller.rb": [
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        null,
-        0,
-        0,
-        null,
-        0,
-        null,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/items_brand_controller.rb": [
         0,
         0,
@@ -259,6 +258,24 @@
         0,
         0
       ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/apparel.rb": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0
+      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/category.rb": [
         0,
         0,
@@ -281,30 +298,13 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/image.rb": [
-        0,
-        0,
-        0
-      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/item_category.rb": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/item_image.rb": [
-        0,
-        0,
-        0,
-        null,
-        null,
-        0,
         0,
         0,
         0,
         0
       ]
     },
-    "timestamp": 1515485776
+    "timestamp": 1515486185
   }
 }
