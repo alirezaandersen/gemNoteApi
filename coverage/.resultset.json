@@ -5,6 +5,37 @@
         1,
         null
       ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/items_brand_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/api_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/items_controller.rb": [
         1,
         1,
@@ -38,21 +69,6 @@
         null,
         null,
         null,
-        null
-      ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/api_controller.rb": [
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/application_controller.rb": [
-        1,
-        null,
-        null,
-        1,
         null
       ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/item.rb": [
@@ -225,22 +241,6 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/items_brand_controller.rb": [
-        0,
-        0,
-        0,
-        0,
-        null,
-        null,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        0,
-        0
-      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/apparel.rb": [
         0,
         0,
@@ -305,6 +305,6 @@
         0
       ]
     },
-    "timestamp": 1515483994
+    "timestamp": 1515484221
   }
 }
