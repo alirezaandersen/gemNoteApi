@@ -1,28 +1,68 @@
-== README
+# GemNote Api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based on requirements for backend tech challenge. The idea behind this schema takes more time to build on for the db but allows an more scalable app and easier maintence of products. 
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+Clone down the repo:
 
-* System dependencies
+```bash
+  $ git clone https://github.com/alirezaandersen/gemNoteApi.git
+```
 
-* Configuration
+Then change into the project directory:
 
-* Database creation
+```bash
+  $ cd gemNoteApi
+```
 
-* Database initialization
+### Installing
 
-* How to run the test suite
+Let's go ahead and get the database setup:
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+  $ rake db:setup
+```
 
-* Deployment instructions
+Then import the CSV data:
 
-* ...
+```bash
+  $ rake import:all
+```
 
+There is also the option to import only specific subsets of the CSV data:
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+```bash
+$ rake import:items
+$ rake import:categories
+$ rake import:images
+$ rake import:item_categories
+$ rake import:item_images
+$ rake import:apparels
+$ rake import:food_beverages
+$ rake import:drinkwares
+```
+
+Once the rake task is complete, go ahead and run the test suite to confirm that setup was completed successfully:
+
+```bash
+  $ rspec
+```
+
+To hit our API endpoints let us start up a server:
+
+```bash
+  $ rails s
+```
+
+## Running the tests
+
+This project uses RSpec for its test suite. To run the tests:
+
+```bash
+  $ rspec
+```
+
+## Authors
+
+* **Alireza Andersen** - *Initial work* - [Ali Andersen](https://github.com/alirezaandersen)
