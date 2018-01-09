@@ -11,7 +11,7 @@ FactoryBot.define do
     gender "female"
     size "m"
     color "black"
-    assoication :items
+    association :item
   end
 
   factory :category do
