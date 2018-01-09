@@ -71,6 +71,21 @@
         null,
         null
       ],
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/items_price_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/item.rb": [
         1,
         1,
@@ -226,21 +241,6 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/items/item_price_controller.rb": [
-        0,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        0,
-        null,
-        0,
-        0,
-        0,
-        0
-      ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/apparel.rb": [
         0,
         0,
@@ -305,6 +305,6 @@
         0
       ]
     },
-    "timestamp": 1515484221
+    "timestamp": 1515485007
   }
 }

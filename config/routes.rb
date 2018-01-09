@@ -8,10 +8,10 @@ Rails.application.routes.draw do
         collection do
           get '/find',          to: 'items#find'
           get '/random',        to: 'items#random'
-          get '/brand',          to: 'items_brand#index'
+          get '/brand',         to: 'items_brand#index'
+          get '/:price/price',  to: 'items_price#index'
         end
           member do
-          get '/price',         to: 'items_price#index'
           get '/information',   to: 'items#information'
         end
 
