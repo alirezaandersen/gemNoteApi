@@ -23,7 +23,8 @@ namespace :import do
       Item.create!(id: row[:id],
       name: row[:name],
       description: row[:description],
-      brand: row[:brand])
+      brand: row[:brand],
+      price: row[:price])
       print '.'
     end
     puts "Created Items"

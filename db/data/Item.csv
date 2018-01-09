@@ -1,46 +1,44 @@
-Item,,,,,
 id,name,description,brand,price,image_id
-1,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-2,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-3,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-4,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-5,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-6,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-7,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-8,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-9,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-10,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-,,,,,
+1,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+2,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+3,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+4,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+5,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+6,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+7,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+8,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+9,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+10,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
 11,Bars with Inclusions,"""Using the finest cacao, and a modern take on traditional European technique, we are able to fully realize the potential of the beans we source. /n All of our chocolate is carefully crafted from the bean in our small factory in Northern California. /n
 2 oz /n""",Dick Taylor,8.5,11
 12,Bars with Inclusions,"""Using the finest cacao, and a modern take on traditional European technique, we are able to fully realize the potential of the beans we source. /n All of our chocolate is carefully crafted from the bean in our small factory in Northern California. /n
@@ -49,133 +47,129 @@ High, harness- and pack-compatible handwarmer pockets and one interior chest poc
 2 oz /n""",Dick Taylor,8.5,
 14,Bars with Inclusions,"""Using the finest cacao, and a modern take on traditional European technique, we are able to fully realize the potential of the beans we source. /n All of our chocolate is carefully crafted from the bean in our small factory in Northern California. /n
 2 oz /n""",Dick Taylor,8.5,
-,,,,,
 15,Carat Coffee Dripper and Pot,""" 4.4"" x 8"" x 5.5"" /n
 Superior stainless-steel and heat-resistant glass /n
 Set comes with a stainless-steel filter that allows for greater extraction of coffee oils than a paper filter, resulting in a richer and smoother coffee /n
 Pot, dripper, lid: microwave and dishwasher safe /n
 Filter, holder, silicone ring: dishwasher safe /n
 24.3oz /n""",Kinto,64.5,
-,,,,,
-16,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-17,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-18,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-19,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-20,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-21,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-22,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-23,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-24,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-25,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-,,,,,
-26,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-27,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-28,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-29,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-30,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,2
-31,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-32,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-33,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-34,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-35,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,1
-,,,,,
-36,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-37,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-38,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-39,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-40,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-41,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-42,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-43,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-44,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
-45,Hybrid Jacket,""" 93% polyester/7% spandex stretch woven with fleece grid backer /n
-3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish /n
-Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs /n 
-High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining/n """,Patagonia ,149,
+16,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+17,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+18,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+19,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+20,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+21,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+22,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+23,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+24,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+25,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+26,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+27,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+28,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+29,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+30,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,2
+31,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+32,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+33,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+34,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+35,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,1
+36,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+37,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+38,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+39,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+40,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+41,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+42,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+43,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+44,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
+45,Hybrid Jacket,""" 93% polyester / 7% spandex stretch woven with fleece grid backer \n
+3-layer Polartec Windbloc stretch-woven polyester soft-shell with a DWR (durable water repellent) finish \n
+Stretchy, breathable, double-weave soft-shell fabric on side panels, underarms and cuffs \n 
+High, harness- and pack-compatible handwarmer pockets and one interior chest pocket have brushed tricot lining \n""",Patagonia ,149,
