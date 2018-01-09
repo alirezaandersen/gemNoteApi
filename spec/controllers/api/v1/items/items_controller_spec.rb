@@ -29,7 +29,7 @@ RSpec.describe Api::V1::Items::ItemsController do
   end
 
   describe "Get information", type: :controller do
-  it "can find item based on match query" do
+  it "can find specific information on item" do
     items = FactoryBot.create(:item)
     get :information, id: items.id, format: :json
 

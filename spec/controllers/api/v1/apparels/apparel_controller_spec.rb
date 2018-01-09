@@ -3,7 +3,7 @@ require 'pry'
 
 RSpec.describe Api::V1::Apparels::ApparelsController do
   describe "GET index", type: :controller do
-    it "returns all item brands" do
+    it "returns all apparel items" do
       item1 = FactoryBot.create(:item)
       apparel1 = FactoryBot.create(:apparel, item: item1)
       item2 = FactoryBot.create(:item)
@@ -19,18 +19,17 @@ RSpec.describe Api::V1::Apparels::ApparelsController do
   end
 
   describe "GET show", type: :controller do
-    it "returns all item brands" do
+    it "returns specific apparel item" do
       item1 = FactoryBot.create(:item)
       apparel1 = FactoryBot.create(:apparel, item: item1)
 
       get :show, id: 1,  format: :json
-      items = JSON.parse(response.body)
       expect(response).to have_http_status(:success)
     end
   end
 
   describe "GET gender", type: :controller do
-    it "returns all item brands" do
+    it "returns all gender specific items" do
       item1 = FactoryBot.create(:item)
       apparel1 = FactoryBot.create(:apparel, item: item1)
 
@@ -42,7 +41,7 @@ RSpec.describe Api::V1::Apparels::ApparelsController do
   end
 
   describe "GET size", type: :controller do
-    it "returns all item brands" do
+    it "returns all size specific items" do
       item1 = FactoryBot.create(:item)
       apparel1 = FactoryBot.create(:apparel, item: item1)
 

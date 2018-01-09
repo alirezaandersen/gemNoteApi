@@ -3,7 +3,7 @@ require 'pry'
 
 RSpec.describe Api::V1::Items::ItemsPriceController do
   describe "GET index", type: :controller do
-    it "returns all item brands" do
+    it "returns all item based on specific price" do
       item1 = FactoryBot.create(:item)
       item2 = FactoryBot.create(:item)
       item3 = FactoryBot.create(:item, price:143)
