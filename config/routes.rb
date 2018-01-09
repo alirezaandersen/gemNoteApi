@@ -43,11 +43,14 @@ Rails.application.routes.draw do
 
       resources :images, only: [:index, :show], module: 'images' do
 
-        # collection do
-        #
-        # end
       end
 
+      resources :drinkwares, only: [:index, :show], module: 'drinkwares' do
+
+        collection do
+          get '/random',         to: 'drinkwares#random'
+        end
+      end
     end
   end
 end
