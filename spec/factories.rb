@@ -18,6 +18,11 @@ FactoryBot.define do
     association :item
   end
 
+  factory :food_beverage do
+    flavor "Chocolate"
+    association :item
+  end
+
   factory :category do
     name "Apparel"
   end

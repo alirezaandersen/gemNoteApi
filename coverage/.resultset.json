@@ -5,21 +5,22 @@
         1,
         null
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/drinkwares/drinkwares_controller.rb": [
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/food_beverages/food_beverages_controller.rb": [
         1,
         1,
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        null,
         null,
         null,
         1,
         null,
         1,
         null,
-        null,
-        1,
-        null,
-        1,
         null,
         null,
         1,
@@ -27,7 +28,12 @@
         0,
         null,
         null,
+        1,
         null,
+        0,
+        null,
+        null,
+        1,
         null,
         null,
         null,
@@ -59,9 +65,16 @@
         1,
         null
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/drinkware.rb": [
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/food_beverage.rb": [
         1,
         1,
+        1,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
         null
       ],
       "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/apparels/apparels_controller.rb": [
@@ -124,23 +137,12 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/food_beverages/food_beverages_controller.rb": [
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/controllers/api/v1/drinkwares/drinkwares_controller.rb": [
         0,
         0,
         0,
         0,
         null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
-        null,
-        0,
         null,
         0,
         null,
@@ -155,6 +157,11 @@
         0,
         null,
         0,
+        0,
+        null,
+        null,
+        null,
+        null,
         0,
         0,
         0,
@@ -269,14 +276,7 @@
         0,
         0
       ],
-      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/food_beverage.rb": [
-        0,
-        0,
-        0,
-        null,
-        null,
-        0,
-        0,
+      "/Users/alirezaandersen/gemNoteChallenge/gemNoteApi/app/models/drinkware.rb": [
         0,
         0,
         0
@@ -305,6 +305,6 @@
         0
       ]
     },
-    "timestamp": 1515512611
+    "timestamp": 1515512971
   }
 }
