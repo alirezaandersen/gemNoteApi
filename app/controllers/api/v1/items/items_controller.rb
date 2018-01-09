@@ -13,6 +13,9 @@ module Api
         respond_with Item.find(params[:id])
       end
 
+      def information
+        respond_with Item.find(params[:id]).description
+      end
       #shows specific item based on item_params
       def find
         respond_with Item.find_by(item_params)

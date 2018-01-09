@@ -5,12 +5,12 @@ module Api
 
         def index
           #should show all apparel items only including Apparel and Item objects.
-          respond_with Apparel.all
+          respond_with Item.joins(:apparels).select("apparels.*, items.*")
         end
 
         def show
           #should show specific apparel item based on id only
-          respond_with Category.find(params[:id])
+          respond_with Item.joins(:apparels).select("apparels.*, items.*").where(id: params[:id])
         end
 
         def random
@@ -26,7 +26,7 @@ module Api
           #should show all apparel items ideas based on size
         end
 
-        def find
+        def find_all
           #should show specific apparel items based on proper full param
         end
       end
