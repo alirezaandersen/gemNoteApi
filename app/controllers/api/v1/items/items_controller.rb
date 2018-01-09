@@ -19,9 +19,10 @@ module Api
         end
 
         # shows all items and all associations
-        def show_all
-          respond_with Item.all.where(item_params)
-        end
+        # not sure if really neccessary seems redunant 
+        # def show_all
+        #   respond_with Item.all.where(item_params)
+        # end
 
         def random
           respond_with Item.all.sample
