@@ -5,26 +5,26 @@ module Api
 
       #shows all items
       def index
-        respond_with item.all
+        respond_with Item.all
       end
 
       #shows specific item by id
       def show
-        respond_with item.find(params[:id])
+        respond_with Item.find(params[:id])
       end
 
       #shows specific item based on item_params
       def find
-        respond_with item.find_by(item_params)
+        respond_with Item.find_by(item_params)
       end
 
-      # shows all items with partical item_params
-      def find_all
-        respond_with item.where(item_params)
-      end
+      # # shows all items by specific brand
+      # def find_all
+      #   respond_with Item.all.where(item_params)
+      # end
 
       def random
-        respond_with item.all.sample
+        respond_with Item.all.sample
       end
 
       private
