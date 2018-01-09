@@ -1,5 +1,4 @@
 require 'csv'
-require 'bigdecimal'
 
 namespace :import do
 
