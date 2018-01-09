@@ -19,16 +19,16 @@ module Api
         end
 
         def gender
+          # shows all available genders
+          respond_with Apparel.genders(params[:gender])
           #should show all apparel items based on gender
         end
 
         def size
           #should show all apparel items ideas based on size
+          respond_with Apparel.size(params[:size])
         end
 
-        def find_all
-          #should show specific apparel items based on proper full param
-        end
       end
     end
   end
